@@ -1,0 +1,18 @@
+/* Escribe tu css aqui */
+.uno {
+	background: yellow;
+}
+.dos {
+	background:#FF0000; 
+}
+
+p {
+	margin: 0px;
+}
+.tres {
+	background: yellow;
+}
+
+div{
+	height: 100px;
+}
